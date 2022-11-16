@@ -7,6 +7,8 @@
         <entry key="..\:/Users/gjaischool-65/AndroidStudioProjects/wintopia/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
         <entry key="..\:/Users/gjaischool-65/AndroidStudioProjects/wintopia/app/src/main/res/layout/fragment_list.xml" value="0.264" />
         <entry key="..\:/Users/gjaischool-65/AndroidStudioProjects/wintopia/app/src/main/res/menu/select.xml" value="0.1" />
+<<<<<<< HEAD
+=======
         <entry key="..\:/Users/gjaischool61/project2/wintopia/wintopia/app/src/main/res/drawable/background_radius.xml" value="0.1905" />
         <entry key="..\:/Users/gjaischool61/project2/wintopia/wintopia/app/src/main/res/drawable/styles.xml" value="0.224" />
         <entry key="..\:/Users/gjaischool61/project2/wintopia/wintopia/app/src/main/res/layout/activity_login.xml" value="0.17481884057971014" />
@@ -29,6 +31,7 @@
         <entry key="..\:/Users/gjaischool61/project2/wintopia/wintopia/app/src/main/res/layout/list_item.xml" value="0.176" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 96d07cae4b7bbd1a7f6f11c6d711ff10ae14468a
 =======
@@ -36,6 +39,8 @@
 >>>>>>> 1a5cc15fd5837dc8ad984411f4d6b9b3c68210b7
 >>>>>>> 83967626ea384242b797ee2c63d5c0e82e916f52
 =======
+=======
+>>>>>>> jyj
 >>>>>>> phy
       </map>
     </option>
@@ -45,12 +50,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="SuppressABINotification">
-    <option name="modulesWithSuppressedNotConfigured">
-      <set>
-        <option value="wintopia.app" />
-      </set>
-    </option>
   </component>
 </project>
