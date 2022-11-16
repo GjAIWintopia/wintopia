@@ -7,13 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.wintopia.R
-import com.example.wintopia.databinding.FragmentListBinding
 
 class ListFragment : Fragment() {
 
     //    lateinit var adapter: ListVOAdapter
-    private var mBinding: FragmentListBinding? = null
-    private val binding get() = mBinding!!
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -29,8 +26,7 @@ class ListFragment : Fragment() {
 //        binding.rvList.layoutManager = LinearLayoutManager(requireContext())
 //        binding.rvList.adapter = ListVOAdapter(data)
 
-
-        return binding.root
+        return null
     }
 
 }
