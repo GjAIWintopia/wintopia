@@ -17,7 +17,6 @@
         android:theme="@style/Theme.Wintopia"
         tools:targetApi="31">
         <activity
-
             android:name=".view.mypage.EditActivity"
             android:exported="false" />
         <activity
