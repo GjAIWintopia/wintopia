@@ -18,7 +18,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-<<<<<<< HEAD
+
             android:name=".EditActivity"
             android:exported="false" />
         <activity
@@ -27,13 +27,7 @@
         <activity
             android:name=".LoginActivity"
             android:exported="false" />
-        <activity
-=======
->>>>>>> 83967626ea384242b797ee2c63d5c0e82e916f52
-            android:name=".view.main.MainActivity"
-            android:exported="true">
 
-        </activity>
         <activity
             android:name=".view.signup.SignUpActivity"
             android:exported="true">
